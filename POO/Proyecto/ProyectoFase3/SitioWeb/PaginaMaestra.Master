@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PaginaMaestra.master.cs" Inherits="SitioWeb.PaginaMaestra" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <asp:ContentPlaceHolder ID="ContenidoHeader" runat="server">
+    </asp:ContentPlaceHolder>
+
+    
+    <link href="css/misEstilos.css" rel="stylesheet" />
+    <script src="Js/Script.js"></script>
+
+    <script src="Scripts/bootstrap.min.js"></script>
+    <link href="content/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+        <div class="collapse navbar-collapse justify-content-between container">
+            <ul id="" class="navbar-nav mr-auto">
+                <li class="nav-item"><a class="navbar-brand" href="Matricula.aspx">Matricula</a></li>
+                <li class="nav-item"><a class="navbar-brand" href="Curso.aspx">Cursos</a></li>
+                <li class="nav-item"><a class="navbar-brand" href="Profesor.aspx">Agregar Profesor</a></li>
+                <li class="nav-item"><a class="navbar-brand" href="Estudiante.aspx">Agregar Estudiante</a></li>
+                <li class="nav-item"><a class="navbar-brand" href="#">Sobre Nosotros</a></li>
+            </ul>
+
+            <a href="Default.aspx" class="navbar-brand">Insitituto Idiomas</a>
+        </div>
+    </nav>
+
+
+    <main>
+        <div class="container">
+            <asp:ContentPlaceHolder ID="ContenidoMain" runat="server">
+                <!--Aqui podemos colocar elementos en las paginas ContentPage-->
+            </asp:ContentPlaceHolder>
+        </div>
+    </main>
+
+
+    <footer class="page-footer">
+        <br />
+        <div class="card container marginTop">
+            <div class="card-body">
+                <h5 class="card-title">Instituto de idiomas</h5>
+                <h6 class="card-subtitle mb-2 text-muted">¿Quieres aprender algo nuevo?</h6>
+                <p class="card-text">Ven y matriculate en nuestros Cursos</p>
+                <a href="#" class="card-link">Whatsapp</a>
+                <a href="#" class="card-link">Facebook</a>
+            </div>
+        </div>
+            <asp:ContentPlaceHolder ID="ContenidoFooter" runat="server">
+                <!--Aqui podemos colocar elementos en las paginas ContentPage-->
+            </asp:ContentPlaceHolder>
+    </footer>
+
+</body>
+</html>

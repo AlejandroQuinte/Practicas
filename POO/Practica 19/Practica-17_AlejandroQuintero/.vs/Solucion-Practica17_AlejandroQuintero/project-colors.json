@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b573a59b-16f8-4390-8daa-f994a32118ae": {
+      "ProjectGuid": "b573a59b-16f8-4390-8daa-f994a32118ae",
+      "DisplayName": "SitioWeb",
+      "ColorIndex": 0
+    },
+    "25deb8b9-3955-4c6d-b791-bb3e7bd68386": {
+      "ProjectGuid": "25deb8b9-3955-4c6d-b791-bb3e7bd68386",
+      "DisplayName": "AccesoDatos",
+      "ColorIndex": 1
+    },
+    "76111a4b-71af-4e3b-9edb-abb426295818": {
+      "ProjectGuid": "76111a4b-71af-4e3b-9edb-abb426295818",
+      "DisplayName": "LogicaNegocio",
+      "ColorIndex": 2
+    },
+    "51e98051-c006-44f6-aa28-73f86a026ce4": {
+      "ProjectGuid": "51e98051-c006-44f6-aa28-73f86a026ce4",
+      "DisplayName": "Entidades",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

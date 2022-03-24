@@ -1,0 +1,117 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+/*Fondo*/
+body{
+	background-image: url(../Img/fondo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.encabezado{
+	background-color: #9dff00;
+	font: Verdana;
+	font-size: 45px;
+	color: white;
+	border: 3px solid rgb(0, 194, 0);
+	text-align: center;
+	padding: 5px;
+	margin: 5px;
+}
+.menu{
+	background-color: rgb(0, 92, 0);
+}
+.menu ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+.menu ul li{
+	background-color: rgb(0, 92, 0);
+	display: inline-block;
+}
+.menu ul li a{
+	background-color: rgb(1, 87, 1);
+	color: white;
+	display: block;
+	padding: 15px 120px;
+	margin: 0px 187px;
+	text-decoration: none;
+	font-size: 30px;
+}
+.menu ul li a:hover{
+	background-color: darkgreen;	
+}
+table{
+	margin: auto;
+}
+.tablaPrincipal{
+	border: 1px ;
+	background-color: none;
+	width: 600px;
+	height: 250px;
+	padding: 20px;
+	caption-side: bottom;
+}
+.tablaPrincipal th, .tablaPrincipal td{
+	border: 1px solid #000;
+}
+table td:hover{
+	background: lightgreen;
+}
+table th:hover{
+	background: rgb(24, 190, 96);
+}
+.up{
+	border: 5px solid;
+	background-color: rgb(105, 94, 94);
+}
+.columna1{
+	border: 5px solid;
+	background-color: lightgreen;
+}
+.fila2{
+	border: 5px solid;
+	background-color: #00f165;
+}
+.fila4{
+	border: 5px solid;
+	background-color: #08ff8c;
+}
+.columna2{
+	border: 5px solid;
+	background-color: lightgreen;
+}
+.columna3{
+	border: 5px solid;
+	background-color: lightgreen;
+}
+.columna4{
+	border: 5px solid;
+	background-color: lightgreen;
+}
+
+.columna1{
+	background-image: url("../Img/euro.svg");
+	padding: 0px;
+	background-repeat: no-repeat;
+}
+
+.columna2{
+	background-image: url("../Img/dolar.svg");
+	padding: 0px;
+	background-repeat: no-repeat;
+}
+.columna3{
+	background-image: url("../Img/libra.svg");
+	padding: 0px;
+	background-repeat: no-repeat;
+
+
+}
+.columna4{
+	background-image: url("../Img/yen.svg");
+	padding: 0px;
+	background-repeat: no-repeat;
+}

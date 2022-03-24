@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6413e936-056b-451c-81ae-615696cc6d11": {
+      "ProjectGuid": "6413e936-056b-451c-81ae-615696cc6d11",
+      "DisplayName": "Capa1Presentacion",
+      "ColorIndex": 0
+    },
+    "0db1f2ef-ae54-4cea-af1a-cf718f7d6b69": {
+      "ProjectGuid": "0db1f2ef-ae54-4cea-af1a-cf718f7d6b69",
+      "DisplayName": "Capa2LogicaNegocio",
+      "ColorIndex": 1
+    },
+    "c749ea30-eda1-4a1a-9182-79ca34b3c947": {
+      "ProjectGuid": "c749ea30-eda1-4a1a-9182-79ca34b3c947",
+      "DisplayName": "Capa3AccesoDatos",
+      "ColorIndex": 2
+    },
+    "397e167f-205a-4137-b553-67c321e95fa2": {
+      "ProjectGuid": "397e167f-205a-4137-b553-67c321e95fa2",
+      "DisplayName": "CapaEntidades",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "cc91d70d-88f6-412a-ac2e-407f66901240": {
+      "ProjectGuid": "cc91d70d-88f6-412a-ac2e-407f66901240",
+      "DisplayName": "SitioWeb",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

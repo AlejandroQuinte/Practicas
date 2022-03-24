@@ -1,0 +1,8 @@
+C:\Users\alequ\Desktop\Trabajo 8\Ejercicio01\Practica08\bin\Debug\Practica08.exe.config
+C:\Users\alequ\Desktop\Trabajo 8\Ejercicio01\Practica08\bin\Debug\Practica08.exe
+C:\Users\alequ\Desktop\Trabajo 8\Ejercicio01\Practica08\bin\Debug\Practica08.pdb
+C:\Users\alequ\Desktop\Trabajo 8\Ejercicio01\Practica08\obj\Debug\Practica08.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\Trabajo 8\Ejercicio01\Practica08\obj\Debug\Practica08.csproj.SuggestedBindingRedirects.cache
+C:\Users\alequ\Desktop\Trabajo 8\Ejercicio01\Practica08\obj\Debug\Practica08.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\Trabajo 8\Ejercicio01\Practica08\obj\Debug\Practica08.exe
+C:\Users\alequ\Desktop\Trabajo 8\Ejercicio01\Practica08\obj\Debug\Practica08.pdb

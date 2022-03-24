@@ -1,0 +1,8 @@
+C:\Users\alequ\Desktop\Ejemplo_LINQ\Proyecto_LINQ Clase\bin\Debug\Proyecto_LINQ Clase.exe.config
+C:\Users\alequ\Desktop\Ejemplo_LINQ\Proyecto_LINQ Clase\bin\Debug\Proyecto_LINQ Clase.exe
+C:\Users\alequ\Desktop\Ejemplo_LINQ\Proyecto_LINQ Clase\bin\Debug\Proyecto_LINQ Clase.pdb
+C:\Users\alequ\Desktop\Ejemplo_LINQ\Proyecto_LINQ Clase\obj\Debug\Proyecto_LINQ Clase.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\Ejemplo_LINQ\Proyecto_LINQ Clase\obj\Debug\Proyecto_LINQ Clase.csproj.SuggestedBindingRedirects.cache
+C:\Users\alequ\Desktop\Ejemplo_LINQ\Proyecto_LINQ Clase\obj\Debug\Proyecto_LINQ Clase.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\Ejemplo_LINQ\Proyecto_LINQ Clase\obj\Debug\Proyecto_LINQ Clase.exe
+C:\Users\alequ\Desktop\Ejemplo_LINQ\Proyecto_LINQ Clase\obj\Debug\Proyecto_LINQ Clase.pdb

@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+
+#cuerpo{
+    text-align: center;
+}
+#cuerpo h1{
+    color: blue;
+}
+#flex-textos span{
+    font-weight: bold;
+    font-size: 20px;
+}
+#flex-textos{
+    display: flex;
+    justify-content: center;
+}
+
+#flex-textos div{
+    width: 30%;
+    margin-left: 30px;
+}

@@ -1,0 +1,45 @@
+.amarillo{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    color: grey;
+}
+.rojo{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:medium;
+    color: rgb(99, 34, 34);
+}
+.verde{
+    font-family:'Times New Roman', Times, serif;
+    font-size:x-large;
+    color: rgb(182, 103, 103);
+}
+.amarillo span{
+    color: rgb(180, 180, 7);
+    font-weight: bold;
+}
+.rojo span{
+    color: red;
+    font-weight: bold;
+}
+.verde span{
+    color: green;
+    font-weight: bold;
+}
+.iguales {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: hotpink;
+}
+#Pagina3 .h1{
+    color: red;
+    font-size: 25px;
+}
+#Pagina3 .h2{
+    color: rgb(67, 109, 0);
+    font-size: 55px;
+}
+#Pagina3 .h3{
+    color: rgb(89, 150, 145);
+    font-size: 35px;
+}
+

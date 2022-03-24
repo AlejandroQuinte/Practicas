@@ -1,0 +1,38 @@
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\Entidades\obj\Debug\netstandard2.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\Entidades\obj\Debug\netstandard2.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\Entidades\obj\Debug\netstandard2.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\Entidades\obj\Debug\netstandard2.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

@@ -1,0 +1,62 @@
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.csproj.GenerateResource.cache
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.AssemblyInfo.cs
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa1Presentacion.exe
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa1Presentacion.deps.json
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa1Presentacion.runtimeconfig.json
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa1Presentacion.runtimeconfig.dev.json
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa1Presentacion.dll
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa1Presentacion.pdb
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa2LogicaNegocio.dll
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa3AccesoDatos.dll
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\CapaEntidades.dll
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa2LogicaNegocio.pdb
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\CapaEntidades.pdb
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa3AccesoDatos.pdb
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.csproj.CopyComplete
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.dll
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.pdb
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.genruntimeconfig.cache
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.FrmCliente.resources
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.FrmProducto.resources
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa1Presentacion.exe
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa1Presentacion.deps.json
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa1Presentacion.runtimeconfig.json
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa1Presentacion.runtimeconfig.dev.json
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa1Presentacion.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa1Presentacion.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa2LogicaNegocio.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa3AccesoDatos.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\CapaEntidades.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa2LogicaNegocio.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\CapaEntidades.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\bin\Debug\netcoreapp3.1\Capa3AccesoDatos.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.FrmBuscarCliente.resources
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.FrmBuscarProducto.resources
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.FrmCliente.resources
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.FrmProducto.resources
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.csproj.GenerateResource.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.AssemblyInfo.cs
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.csproj.CopyComplete
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa1Presentacion\obj\Debug\netcoreapp3.1\Capa1Presentacion.genruntimeconfig.cache

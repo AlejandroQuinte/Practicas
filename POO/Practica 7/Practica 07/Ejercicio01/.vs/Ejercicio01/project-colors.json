@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "65dea09e-25a6-4f7d-a6f3-d5c7c092f6bf": {
+      "ProjectGuid": "65dea09e-25a6-4f7d-a6f3-d5c7c092f6bf",
+      "DisplayName": "Practica",
+      "ColorIndex": 0
+    },
+    "b4a5d2a2-262b-4276-b150-beb87f96f70d": {
+      "ProjectGuid": "b4a5d2a2-262b-4276-b150-beb87f96f70d",
+      "DisplayName": "ejercicio2",
+      "ColorIndex": 1
+    },
+    "dae3fdd8-f440-4dc1-b71d-de54ada3fc3a": {
+      "ProjectGuid": "dae3fdd8-f440-4dc1-b71d-de54ada3fc3a",
+      "DisplayName": "Ejercicio3",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

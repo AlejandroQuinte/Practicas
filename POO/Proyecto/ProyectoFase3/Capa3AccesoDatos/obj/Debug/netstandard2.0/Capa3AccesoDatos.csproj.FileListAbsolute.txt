@@ -1,0 +1,13 @@
+C:\Users\alequ\Desktop\ProyectoFase2\Capa3AccesoDatos\bin\Debug\netstandard2.0\Capa3AccesoDatos.deps.json
+C:\Users\alequ\Desktop\ProyectoFase2\Capa3AccesoDatos\bin\Debug\netstandard2.0\Capa3AccesoDatos.dll
+C:\Users\alequ\Desktop\ProyectoFase2\Capa3AccesoDatos\bin\Debug\netstandard2.0\Capa3AccesoDatos.pdb
+C:\Users\alequ\Desktop\ProyectoFase2\Capa3AccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\alequ\Desktop\ProyectoFase2\Capa3AccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\alequ\Desktop\ProyectoFase2\Capa3AccesoDatos\obj\Debug\netstandard2.0\Capa3AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\ProyectoFase2\Capa3AccesoDatos\obj\Debug\netstandard2.0\Capa3AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\ProyectoFase2\Capa3AccesoDatos\obj\Debug\netstandard2.0\Capa3AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\ProyectoFase2\Capa3AccesoDatos\obj\Debug\netstandard2.0\Capa3AccesoDatos.AssemblyInfo.cs
+C:\Users\alequ\Desktop\ProyectoFase2\Capa3AccesoDatos\obj\Debug\netstandard2.0\Capa3AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\ProyectoFase2\Capa3AccesoDatos\obj\Debug\netstandard2.0\Capa3AccesoDatos.csproj.CopyComplete
+C:\Users\alequ\Desktop\ProyectoFase2\Capa3AccesoDatos\obj\Debug\netstandard2.0\Capa3AccesoDatos.dll
+C:\Users\alequ\Desktop\ProyectoFase2\Capa3AccesoDatos\obj\Debug\netstandard2.0\Capa3AccesoDatos.pdb

@@ -1,0 +1,39 @@
+
+
+
+
+
+
+
+#flex-cajas{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    max-width: 1000px;
+}
+.caja{
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 30px 25px;
+    border: 2px solid black;
+    flex: 1;
+    min-width: 100px;
+}
+#caja1{
+    background-color: rgb(179, 116, 21);
+}
+#caja2{
+    background-color: cornflowerblue;
+}
+#caja3{
+    background-color: cyan;
+    min-width: 195px;
+}
+#caja4{
+    background-color: darkcyan;
+}
+#caja5{
+    background-color: darkgoldenrod;
+} 
+

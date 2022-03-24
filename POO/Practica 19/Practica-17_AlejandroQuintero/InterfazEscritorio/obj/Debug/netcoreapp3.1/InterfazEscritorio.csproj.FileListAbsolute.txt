@@ -1,0 +1,99 @@
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.exe
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.deps.json
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.json
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.dev.json
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmBuscarClientes.resources
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmClientes.resources
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmClientesReservaciones.resources
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmMenu.resources
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.Properties.Resources.resources
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.GenerateResource.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfo.cs
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CopyComplete
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.genruntimeconfig.cache
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.exe
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.deps.json
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.json
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.dev.json
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.pdb
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmBuscarClientes.resources
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmClientes.resources
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmClientesReservaciones.resources
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmMenu.resources
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.Properties.Resources.resources
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.GenerateResource.cache
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfo.cs
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CopyComplete
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.genruntimeconfig.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.exe
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.deps.json
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.json
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.dev.json
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmBuscarClientes.resources
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmClientes.resources
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmClientesReservaciones.resources
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmMenu.resources
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.Properties.Resources.resources
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.GenerateResource.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfo.cs
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CopyComplete
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.genruntimeconfig.cache

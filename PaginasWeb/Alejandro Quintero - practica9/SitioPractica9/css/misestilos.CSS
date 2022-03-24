@@ -1,0 +1,38 @@
+.contenedor{
+    max-width: 1200px;
+    width: 90%;
+    width: min(90%, 1200px);/*es el mismo codigo al de arriba pero mas corto*/
+    margin: 0 auto;
+}
+#encabezado{ 
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    width: 600px;
+}
+
+.pagina1 span{
+    color: rgb(51, 255, 0);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pagina1 a{
+    text-decoration: none;
+    color: rgb(51, 255, 0);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pagina2 em{
+    text-decoration: none;
+    color: rgb(34, 22, 206);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#p2_parrafo1{
+
+}
+#p2_parrafo2{
+
+}

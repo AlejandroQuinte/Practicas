@@ -1,0 +1,20 @@
+.contenedorPrincipal{
+   display: grid;
+   grid-template-columns: 1;
+   gap: 5px;
+}
+@media (min-width: 768px) {
+    .contenedorPrincipal{
+        grid-template-columns: repeat(2,1fr);
+     }
+}
+@media (min-width: 1000px) {
+    .contenedorPrincipal{
+        grid-template-columns: repeat(4,1fr);
+     }
+}
+
+.formulario{
+    background-color: rgb(204, 204, 204);
+    padding: 20px 30px;
+}

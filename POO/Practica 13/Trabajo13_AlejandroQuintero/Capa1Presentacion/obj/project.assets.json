@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Capa2LogicaNegocio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Capa3AccesoDatos": "1.0.0",
+          "CapaEntidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Capa2LogicaNegocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa2LogicaNegocio.dll": {}
+        }
+      },
+      "Capa3AccesoDatos/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "CapaEntidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Capa3AccesoDatos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa3AccesoDatos.dll": {}
+        }
+      },
+      "CapaEntidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CapaEntidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CapaEntidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Capa2LogicaNegocio/1.0.0": {
+      "type": "project",
+      "path": "../Capa2LogicaNegocio/Capa2LogicaNegocio.csproj",
+      "msbuildProject": "../Capa2LogicaNegocio/Capa2LogicaNegocio.csproj"
+    },
+    "Capa3AccesoDatos/1.0.0": {
+      "type": "project",
+      "path": "../Capa3AccesoDatos/Capa3AccesoDatos.csproj",
+      "msbuildProject": "../Capa3AccesoDatos/Capa3AccesoDatos.csproj"
+    },
+    "CapaEntidades/1.0.0": {
+      "type": "project",
+      "path": "../CapaEntidades/CapaEntidades.csproj",
+      "msbuildProject": "../CapaEntidades/CapaEntidades.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Capa2LogicaNegocio >= 1.0.0",
+      "CapaEntidades >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\alequ\\.nuget\\packages\\": {},
+    "D:\\Visual Studio\\Herramientas visual studio\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\alequ\\Desktop\\Trabajo13_AlejandroQuintero\\Capa1Presentacion\\Capa1Presentacion.csproj",
+      "projectName": "Capa1Presentacion",
+      "projectPath": "C:\\Users\\alequ\\Desktop\\Trabajo13_AlejandroQuintero\\Capa1Presentacion\\Capa1Presentacion.csproj",
+      "packagesPath": "C:\\Users\\alequ\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alequ\\Desktop\\Trabajo13_AlejandroQuintero\\Capa1Presentacion\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Visual Studio\\Herramientas visual studio\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\alequ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\alequ\\Desktop\\Trabajo13_AlejandroQuintero\\Capa2LogicaNegocio\\Capa2LogicaNegocio.csproj": {
+              "projectPath": "C:\\Users\\alequ\\Desktop\\Trabajo13_AlejandroQuintero\\Capa2LogicaNegocio\\Capa2LogicaNegocio.csproj"
+            },
+            "C:\\Users\\alequ\\Desktop\\Trabajo13_AlejandroQuintero\\CapaEntidades\\CapaEntidades.csproj": {
+              "projectPath": "C:\\Users\\alequ\\Desktop\\Trabajo13_AlejandroQuintero\\CapaEntidades\\CapaEntidades.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

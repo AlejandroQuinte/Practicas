@@ -1,0 +1,160 @@
+
+
+
+
+
+
+
+body{
+    margin: 0;
+}
+
+
+
+
+
+
+
+a{
+    text-decoration: none;
+}
+
+.contenedor{
+    max-width: 120rem;
+    width: 90%;
+    width: min(90%, 120rem);/*es el mismo codigo al de arriba pero mas corto*/
+    margin: 0 auto;
+}
+.fondo-body{
+    background-color: rgb(233, 228, 186);
+    border-radius: 10px;
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+}
+.header{
+    display: grid;
+    justify-content: center;
+}
+.header-h1{
+    margin-top: 20px;
+    text-align: center;
+    background-color: green;
+    border: 20px solid rgb(207, 207, 207);
+    border-radius: 40px;
+    padding: 20px 0px;
+    width: auto;
+    -webkit-box-shadow: 1px 16px 31px 3px rgba(110,255,156,0.52);
+    -moz-box-shadow: 1px 16px 31px 3px rgba(110,255,156,0.52);
+    box-shadow: 1px 16px 31px 3px rgba(110,255,156,0.52);
+}
+.nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+.nav a{
+    color: white;
+}
+.nav li{
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to bottom, green,white );
+    border-radius: 30px;
+    padding: 5px 30px;
+    margin: 5px;
+}
+.nav-icono{
+    width: 32px;
+    margin-right: 10px;
+}
+
+.section-table{
+    display: flex;
+    justify-content: center;
+}
+table{
+    border-spacing: 0px;
+}
+.section-table td{
+    margin: 0px;
+    width: 40px;
+    height: 40px;
+    padding: 40px;
+}
+.negro{
+    background-color: black;
+}
+.blanco{
+    background-color: white;
+}
+
+.blanco:hover{
+    background-color: red;
+}
+.negro:hover{
+    background-color:yellow;
+}
+
+
+/*Mostrado de informacion de la imagen*/
+
+.section-img{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+
+.image {
+    overflow: hidden;
+    margin: 15px auto;
+    position: relative;
+    filter: sepia(30%);
+}
+  
+figure img {
+    border-radius: 10px;
+    height: 100%;
+    transition: all .23s ease;
+    width: 100%;
+}
+  
+.image figcaption {
+    color: #555;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    left: 0;
+    line-height: 250px;
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    top: 0;
+    transition: all .23s ease;
+    width: 100%;
+}
+
+.image.fade figcaption {
+    opacity: 0;
+    visibility: hidden;
+}
+  
+.image.fade:hover > img {
+    opacity: 0;
+    visibility: hidden;
+}
+  
+.image.fade:hover > figcaption {
+    opacity: 1;
+    visibility: visible;
+}
+
+.big:hover{
+    transform:scale(1.1);
+    transition:.50s ease;
+    z-index: 1;
+
+    /*
+    top: -15px;
+    left: -15px;
+    width: 110%;
+    height: 110%;
+    */
+}

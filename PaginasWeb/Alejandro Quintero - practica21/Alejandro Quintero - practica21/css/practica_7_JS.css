@@ -1,0 +1,63 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+  *, *:before, *:after {
+    box-sizing: inherit;
+}
+
+.contenedor{
+    max-width: 120rem;
+    width: 90%;
+    width: min(90%, 120rem);/*es el mismo codigo al de arriba pero mas corto*/
+    margin: 0 auto;
+}
+
+.header{
+    display: grid;
+    text-align: center;
+    align-items: center;
+    height: 20rem;
+    width: 100%;
+    background-color: aquamarine;
+}
+.header div{
+    font-size: 1.5rem;
+}
+#grafico1{
+    width:100%;
+    max-width:700px;
+}
+#grafico2{
+    width:100%;
+    max-width:600px;
+}
+.graf{
+    width: 100%;
+    display: block;
+}
+.graf button{
+    width: 60rem;
+}
+.graficos{
+    margin-bottom: 10rem;
+}
+@media (min-width: 1260px) { 
+    .graf{
+        width: 50%;
+    }
+    .graf button{
+        width: 15rem;
+    }
+    .graficos{
+        display: flex;
+    }
+    #grafico1{
+        width:100%;
+        max-width:700px;
+    }
+    #grafico2{
+        width:100%;
+        max-width:600px;
+    }
+}

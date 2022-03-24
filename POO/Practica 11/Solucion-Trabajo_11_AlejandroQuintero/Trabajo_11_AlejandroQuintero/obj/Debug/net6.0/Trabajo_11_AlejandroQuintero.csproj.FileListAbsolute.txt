@@ -1,0 +1,15 @@
+C:\Users\alequ\Desktop\Solucion-Trabajo_11_AlejandroQuintero\Trabajo_11_AlejandroQuintero\obj\Debug\net6.0\Trabajo_11_AlejandroQuintero.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\Solucion-Trabajo_11_AlejandroQuintero\Trabajo_11_AlejandroQuintero\obj\Debug\net6.0\Trabajo_11_AlejandroQuintero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\Solucion-Trabajo_11_AlejandroQuintero\Trabajo_11_AlejandroQuintero\obj\Debug\net6.0\Trabajo_11_AlejandroQuintero.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\Solucion-Trabajo_11_AlejandroQuintero\Trabajo_11_AlejandroQuintero\obj\Debug\net6.0\Trabajo_11_AlejandroQuintero.AssemblyInfo.cs
+C:\Users\alequ\Desktop\Solucion-Trabajo_11_AlejandroQuintero\Trabajo_11_AlejandroQuintero\obj\Debug\net6.0\Trabajo_11_AlejandroQuintero.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\Solucion-Trabajo_11_AlejandroQuintero\Trabajo_11_AlejandroQuintero\bin\Debug\net6.0\Trabajo_11_AlejandroQuintero.exe
+C:\Users\alequ\Desktop\Solucion-Trabajo_11_AlejandroQuintero\Trabajo_11_AlejandroQuintero\bin\Debug\net6.0\Trabajo_11_AlejandroQuintero.deps.json
+C:\Users\alequ\Desktop\Solucion-Trabajo_11_AlejandroQuintero\Trabajo_11_AlejandroQuintero\bin\Debug\net6.0\Trabajo_11_AlejandroQuintero.runtimeconfig.json
+C:\Users\alequ\Desktop\Solucion-Trabajo_11_AlejandroQuintero\Trabajo_11_AlejandroQuintero\bin\Debug\net6.0\Trabajo_11_AlejandroQuintero.dll
+C:\Users\alequ\Desktop\Solucion-Trabajo_11_AlejandroQuintero\Trabajo_11_AlejandroQuintero\bin\Debug\net6.0\ref\Trabajo_11_AlejandroQuintero.dll
+C:\Users\alequ\Desktop\Solucion-Trabajo_11_AlejandroQuintero\Trabajo_11_AlejandroQuintero\bin\Debug\net6.0\Trabajo_11_AlejandroQuintero.pdb
+C:\Users\alequ\Desktop\Solucion-Trabajo_11_AlejandroQuintero\Trabajo_11_AlejandroQuintero\obj\Debug\net6.0\Trabajo_11_AlejandroQuintero.dll
+C:\Users\alequ\Desktop\Solucion-Trabajo_11_AlejandroQuintero\Trabajo_11_AlejandroQuintero\obj\Debug\net6.0\ref\Trabajo_11_AlejandroQuintero.dll
+C:\Users\alequ\Desktop\Solucion-Trabajo_11_AlejandroQuintero\Trabajo_11_AlejandroQuintero\obj\Debug\net6.0\Trabajo_11_AlejandroQuintero.pdb
+C:\Users\alequ\Desktop\Solucion-Trabajo_11_AlejandroQuintero\Trabajo_11_AlejandroQuintero\obj\Debug\net6.0\Trabajo_11_AlejandroQuintero.genruntimeconfig.cache

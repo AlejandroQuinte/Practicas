@@ -1,0 +1,30 @@
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa2LogicaNegocio\bin\Debug\netstandard2.0\Capa2LogicaNegocio.deps.json
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa2LogicaNegocio\bin\Debug\netstandard2.0\Capa2LogicaNegocio.dll
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa2LogicaNegocio\bin\Debug\netstandard2.0\Capa2LogicaNegocio.pdb
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa2LogicaNegocio\bin\Debug\netstandard2.0\Capa3AccesoDatos.dll
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa2LogicaNegocio\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa2LogicaNegocio\bin\Debug\netstandard2.0\Capa3AccesoDatos.pdb
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa2LogicaNegocio\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa2LogicaNegocio\obj\Debug\netstandard2.0\Capa2LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa2LogicaNegocio\obj\Debug\netstandard2.0\Capa2LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa2LogicaNegocio\obj\Debug\netstandard2.0\Capa2LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa2LogicaNegocio\obj\Debug\netstandard2.0\Capa2LogicaNegocio.AssemblyInfo.cs
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa2LogicaNegocio\obj\Debug\netstandard2.0\Capa2LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa2LogicaNegocio\obj\Debug\netstandard2.0\Capa2LogicaNegocio.csproj.CopyComplete
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa2LogicaNegocio\obj\Debug\netstandard2.0\Capa2LogicaNegocio.dll
+C:\Users\alequ\Desktop\Practica13_AlejandroQuintero\Capa2LogicaNegocio\obj\Debug\netstandard2.0\Capa2LogicaNegocio.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa2LogicaNegocio\bin\Debug\netstandard2.0\Capa2LogicaNegocio.deps.json
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa2LogicaNegocio\bin\Debug\netstandard2.0\Capa2LogicaNegocio.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa2LogicaNegocio\bin\Debug\netstandard2.0\Capa2LogicaNegocio.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa2LogicaNegocio\bin\Debug\netstandard2.0\Capa3AccesoDatos.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa2LogicaNegocio\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa2LogicaNegocio\bin\Debug\netstandard2.0\Capa3AccesoDatos.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa2LogicaNegocio\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa2LogicaNegocio\obj\Debug\netstandard2.0\Capa2LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa2LogicaNegocio\obj\Debug\netstandard2.0\Capa2LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa2LogicaNegocio\obj\Debug\netstandard2.0\Capa2LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa2LogicaNegocio\obj\Debug\netstandard2.0\Capa2LogicaNegocio.AssemblyInfo.cs
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa2LogicaNegocio\obj\Debug\netstandard2.0\Capa2LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa2LogicaNegocio\obj\Debug\netstandard2.0\Capa2LogicaNegocio.csproj.CopyComplete
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa2LogicaNegocio\obj\Debug\netstandard2.0\Capa2LogicaNegocio.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica 14\Practica14_AlejandroQuintero\Capa2LogicaNegocio\obj\Debug\netstandard2.0\Capa2LogicaNegocio.pdb

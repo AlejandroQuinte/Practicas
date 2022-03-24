@@ -1,0 +1,52 @@
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.deps.json
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\AccesoDatos\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\AccesoDatos\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CopyComplete
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.deps.json
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\AccesoDatos\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\AccesoDatos\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CopyComplete
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.deps.json
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\AccesoDatos\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\AccesoDatos\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CopyComplete
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.deps.json
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\AccesoDatos\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\AccesoDatos\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CopyComplete
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.pdb

@@ -1,0 +1,10 @@
+C:\Users\alequ\Desktop\ProyectoFase2\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.deps.json
+C:\Users\alequ\Desktop\ProyectoFase2\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\alequ\Desktop\ProyectoFase2\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\alequ\Desktop\ProyectoFase2\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\ProyectoFase2\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alequ\Desktop\ProyectoFase2\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\alequ\Desktop\ProyectoFase2\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfo.cs
+C:\Users\alequ\Desktop\ProyectoFase2\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\ProyectoFase2\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\alequ\Desktop\ProyectoFase2\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.pdb

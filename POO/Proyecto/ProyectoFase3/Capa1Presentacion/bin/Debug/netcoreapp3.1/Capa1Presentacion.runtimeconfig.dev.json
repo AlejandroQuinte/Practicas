@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\alequ\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\alequ\\.nuget\\packages",
+      "D:\\Visual Studio\\Herramientas visual studio\\NuGetPackages"
+    ]
+  }
+}

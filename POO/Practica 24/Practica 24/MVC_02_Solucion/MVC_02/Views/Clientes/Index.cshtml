@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Cliente>
+@{
+    ViewData["Title"] = "Tarea Alex";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="container">
+    <div class="card-header">
+        <h1>Listado de Clientes</h1>
+    </div>
+
+</div>
+
+
+ 
+<div class="row mt-3">
+    @if (Model.Count() > 0)
+    {
+        <table class="table table-striped table-hover">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(m => m.Id)</th>
+                    <th>@Html.DisplayNameFor(m => m.NombreCliente)</th>
+                    <th>@Html.DisplayNameFor(m => m.Apellidos)</th>
+                    <th>@Html.DisplayNameFor(m => m.DireccionExacta)</th>
+                    <th>@Html.DisplayNameFor(m => m.Telefono)</th>
+                    <th>@Html.DisplayNameFor(m => m.Email)</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            @foreach (var i in Model)
+            {
+                <tr class="m-3">
+                    <td>@i.Id</td>
+                    <td>@i.NombreCliente</td>
+                    <td>@i.Apellidos</td>
+                    <td>@i.DireccionExacta</td>
+                    <td>@i.Telefono</td>
+                    <td>@i.Email</td>
+
+                </tr>
+            }
+
+
+
+        </table>
+    }
+    else
+    {
+        <p>No existen datos para mostrar</p>
+    }
+
+</div>
+
+
+

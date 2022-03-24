@@ -1,0 +1,268 @@
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\SitioWeb.dll.config
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\SitioWeb.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\SitioWeb.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\csc.exe
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\csc.exe.config
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\csc.rsp
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\csi.exe
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\csi.exe.config
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\csi.rsp
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.AppContext.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Console.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\vbc.exe
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\vbc.exe.config
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\vbc.rsp
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\Entidades.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\LogicaNegocio.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\AccesoDatos.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\Entidades.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\LogicaNegocio.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\System.Data.SqlClient.xml
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\bin\AccesoDatos.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\obj\Debug\SitioWeb.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\obj\Debug\SitioWeb.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\obj\Debug\SitioWeb.csproj.CopyComplete
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\obj\Debug\SitioWeb.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\SitioWeb\obj\Debug\SitioWeb.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\SitioWeb.dll.config
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\SitioWeb.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\SitioWeb.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\csc.exe
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\csc.exe.config
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\csc.rsp
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\csi.exe
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\csi.exe.config
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\csi.rsp
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.AppContext.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Console.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\vbc.exe
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\vbc.exe.config
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\vbc.rsp
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\Entidades.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\LogicaNegocio.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\AccesoDatos.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\Entidades.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\LogicaNegocio.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\System.Data.SqlClient.xml
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\bin\AccesoDatos.pdb
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\obj\Debug\SitioWeb.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\obj\Debug\SitioWeb.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\obj\Debug\SitioWeb.csproj.CopyComplete
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\obj\Debug\SitioWeb.dll
+C:\Users\alequ\Desktop\02 - CSharp_CapasWeb\SitioWeb\obj\Debug\SitioWeb.pdb
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\SitioWeb.dll.config
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\SitioWeb.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\SitioWeb.pdb
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\csc.exe
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\csc.exe.config
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\csc.rsp
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\csi.exe
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\csi.exe.config
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\csi.rsp
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.AppContext.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Console.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\vbc.exe
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\vbc.exe.config
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\vbc.rsp
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\Entidades.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\LogicaNegocio.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\AccesoDatos.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\Entidades.pdb
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\LogicaNegocio.pdb
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\System.Data.SqlClient.xml
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\bin\AccesoDatos.pdb
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\obj\Debug\SitioWeb.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\obj\Debug\SitioWeb.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\obj\Debug\SitioWeb.csproj.CopyComplete
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\obj\Debug\SitioWeb.dll
+C:\Users\alequ\Desktop\Practica-17_AlejandroQuintero\SitioWeb\obj\Debug\SitioWeb.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\SitioWeb.dll.config
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\SitioWeb.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\SitioWeb.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\csc.exe
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\csc.exe.config
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\csc.rsp
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\csi.exe
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\csi.exe.config
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\csi.rsp
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.AppContext.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Console.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\vbc.exe
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\vbc.exe.config
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\vbc.rsp
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\Entidades.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\LogicaNegocio.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\System.Data.SqlClient.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\AccesoDatos.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\Entidades.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\LogicaNegocio.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\System.Data.SqlClient.xml
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\bin\AccesoDatos.pdb
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\obj\Debug\SitioWeb.csproj.AssemblyReference.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\obj\Debug\SitioWeb.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\obj\Debug\SitioWeb.csproj.CopyComplete
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\obj\Debug\SitioWeb.dll
+C:\Users\alequ\Desktop\INA\Programacion Orientada a Objetos\Tareas\Practica-17_AlejandroQuintero\SitioWeb\obj\Debug\SitioWeb.pdb

@@ -1,0 +1,7 @@
+C:\Users\alequ\Desktop\Trabajo 8\Ejercicio01\Ejercicio07\bin\Debug\Ejercicio07.exe.config
+C:\Users\alequ\Desktop\Trabajo 8\Ejercicio01\Ejercicio07\bin\Debug\Ejercicio07.exe
+C:\Users\alequ\Desktop\Trabajo 8\Ejercicio01\Ejercicio07\bin\Debug\Ejercicio07.pdb
+C:\Users\alequ\Desktop\Trabajo 8\Ejercicio01\Ejercicio07\obj\Debug\Ejercicio07.csproj.SuggestedBindingRedirects.cache
+C:\Users\alequ\Desktop\Trabajo 8\Ejercicio01\Ejercicio07\obj\Debug\Ejercicio07.csproj.CoreCompileInputs.cache
+C:\Users\alequ\Desktop\Trabajo 8\Ejercicio01\Ejercicio07\obj\Debug\Ejercicio07.exe
+C:\Users\alequ\Desktop\Trabajo 8\Ejercicio01\Ejercicio07\obj\Debug\Ejercicio07.pdb

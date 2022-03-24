@@ -1,0 +1,163 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+.contenedor{
+    max-width: 120rem;
+    width: 90%;
+    width: min(90%, 120rem);/*es el mismo codigo al de arriba pero mas corto*/
+    margin: 0 auto;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+}
+img{
+    width: 100%;
+}
+
+/*header*/
+.icono{
+    width: 4rem;
+    height: 4rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
+.header h1{
+    font-size: 4rem;
+}
+.header-div{
+    display: block;
+    text-align: center;
+}
+@media (min-width: 768px) {
+    .header-div{
+        display: flex;
+        align-items: center;
+    }
+}
+.header{
+    background-color: rgb(190, 190, 190);
+    padding: 0px 1rem;
+}
+@media (min-width: 768px) {
+    .header{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+
+/*nav*/
+.nav{
+    position: relative;
+   top: -1rem;
+}
+@media (min-width: 768px) {
+    .nav{
+        position: inherit;
+    }
+}
+.nav ul{
+    list-style: none;
+    text-align: center;
+}
+@media (min-width: 768px) {
+    .nav ul{
+        display: flex;
+    }
+}
+.nav ul li{
+    background-color: rgb(240, 240, 240);
+    padding: 1rem 1rem;
+    margin-right: 1rem;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+@media (min-width: 768px) {
+   
+}
+
+/* section*/
+.principal{
+    margin-top: 1rem;
+}
+@media (min-width: 768px) {
+    .principal{
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+}
+@media (min-width: 1000px) {
+    .principal{
+        display: grid;
+        grid-template-columns: 60% 40%;
+    }
+}
+.section-article p{
+    margin: 0px;
+}
+.section-article{
+    margin-bottom: 1.5rem;
+}
+@media (min-width: 768px) {
+    .section-article{
+        display: grid;
+        margin-bottom: 1rem;
+        margin-right: 1rem;
+    }
+}
+@media (min-width: 1000px) {
+    .section-article{
+        grid-template-columns: repeat(2,1fr);
+        gap: 1rem;
+        margin-bottom: 1rem;
+    }
+}
+
+/*aside*/
+.aside{
+    display: grid;
+    align-items: center;
+    background-color: rgb(223, 223, 223);
+    height: 30rem;
+}
+.aside a{
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif; 
+    padding: 1rem 0px;
+    transition: 0.2s ease;
+}
+.aside a:hover{
+    background-color: grey;
+    color: white;
+}
+
+
+/*footer*/
+.footer{
+    display: flex;
+    justify-content: center;
+}
+@media (min-width: 768px) {
+   .footer{
+       display: block;
+       justify-content: left;
+   }
+}

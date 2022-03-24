@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c2795b1-2f05-4760-ae50-43ee3733b5c3": {
+      "ProjectGuid": "2c2795b1-2f05-4760-ae50-43ee3733b5c3",
+      "DisplayName": "Capa1Presentacion",
+      "ColorIndex": 0
+    },
+    "4e823a30-59d8-440b-9b39-eedc797cebc0": {
+      "ProjectGuid": "4e823a30-59d8-440b-9b39-eedc797cebc0",
+      "DisplayName": "Capa2LogicaNegocio",
+      "ColorIndex": 1
+    },
+    "066257f0-0789-40f2-9c0a-0da9087a4579": {
+      "ProjectGuid": "066257f0-0789-40f2-9c0a-0da9087a4579",
+      "DisplayName": "Capa3AccesoDatos",
+      "ColorIndex": 2
+    },
+    "b63ac5c3-67ef-4b09-8f80-bbbaf27857f1": {
+      "ProjectGuid": "b63ac5c3-67ef-4b09-8f80-bbbaf27857f1",
+      "DisplayName": "CapaEntidades",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

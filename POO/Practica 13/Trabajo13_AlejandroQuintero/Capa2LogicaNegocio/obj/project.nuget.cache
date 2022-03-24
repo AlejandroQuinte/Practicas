@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kc+ckPkUdl36pWet2LowYMUlBqY8Zqb8NK8h74lv1J6XR3fEISYsUWaukVSiLVKXzlITzV7cyS1Ioc54jloBUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alequ\\Desktop\\Trabajo13_AlejandroQuintero\\Capa2LogicaNegocio\\Capa2LogicaNegocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alequ\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alequ\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

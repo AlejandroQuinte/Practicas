@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Reservacion>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="container">
+    <div class="card-header">
+        <h1>Listado de Reservaciones</h1>
+    </div>
+
+</div>
+
+
+
+<div class="row mt-3">
+    @if (Model.Count() > 0)
+    {
+        <table class="table table-striped table-hover">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(m => m.Id)</th>
+                    <th>@Html.DisplayNameFor(m => m.FechaReservacionInicio)</th>
+                    <th>@Html.DisplayNameFor(m => m.FechaReservacionFin)</th>
+                    <th>@Html.DisplayNameFor(m => m.ClienteId)</th>
+                    
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            @foreach (var i in Model)
+            {
+                <tr class="m-3">
+                    <td>@i.Id</td>
+                    <td>@i.FechaReservacionInicio.ToString("MM/dd/yyyy")</td>
+                    <td>@i.FechaReservacionFin.ToString("MM/dd/yyyy")</td>
+                    <td>@i.ClienteId</td>
+                    
+
+                </tr>
+            }
+
+
+
+        </table>
+    }
+    else
+    {
+        <p>No existen datos para mostrar</p>
+    }
+
+</div>
+
